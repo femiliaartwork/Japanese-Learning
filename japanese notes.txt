@@ -248,3 +248,10 @@ What have you decided on? (= What will you have?)
 Add て　behind a verb + 下さい　in order to make a request
 食べる　ー＞ 食べてください
 聞いて　ー＞　聞いてください
+
+て - form
+通う	commute (dictionary)
+通って	て-form
+通っている	is commuting (casual continuous)
+通っていますis commuting (polite continuous)
+more e.g. 飲む（のむ） → 飲んで || 話す（はなす） → 話して
