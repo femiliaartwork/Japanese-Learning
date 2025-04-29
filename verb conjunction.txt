@@ -1,0 +1,8 @@
+🔧 Conjugation:
+
+Form	Japanese	Meaning
+Dictionary	当てる	to hit, guess, apply
+Masu-form	当てます	polite form
+Te-form	当てて	used to connect / request
+Past	当てた	hit / guessed (past)
+Negative	当てない	don't hit / guess
