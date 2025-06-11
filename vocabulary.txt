@@ -1,6 +1,6 @@
-通う
+通う (かよう)
 
-勤める
+勤める　(つとめる)
 
 専攻
 
@@ -33,3 +33,4 @@ e.g. 新しい文化を学ぶ
 点ける　to turn on
 付ける　to attach, to apply, to apply
 着ける　to wear
+
