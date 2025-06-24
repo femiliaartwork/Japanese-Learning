@@ -1,4 +1,4 @@
-あります　／　います
+=あります　／　います
 コ一ヒ一があります。
 安藤さんがいます。
 いませんでした
@@ -131,3 +131,35 @@ Location ＋ に＋　verb(ますform)　＋　に　＋　行く
 Location ＋ に＋　verb(ますform)　＋　に　＋　来る
 Location ＋ に＋　verb(ますform)　＋　に　＋　帰る
 買いに行く　／　食べにくる　／　見に行く ／　カラオケに歌いにいく　／　海に泳ぎに行く
+
+Japanese informal negative godan 
+Verb negative + ない　（move the hiragana chart up	 to the あ　column）
+う→わ　／　つ→た　／　る→ら　／　す→さ　／　む→ま　／　ぬ→な　／　ぶ→ば　／　く→か　ぐ→が
+歌う→歌わない　乗る→乗らない　持つ→持たない　聞く→聞かない　急ぐ→急がない　飲む→飲まない
+
+Ichidan verb informal negative	
+見る→見ない　寝る→寝ない　起きる→起きない
+
+Japanese informal　negative　adjective
+いadjective　（replace　い　with　く　＋　ない）
+なadjective／noun＋じゃない
+楽しくない　／　可愛くない　／　綺麗じゃない　／静かじゃない
+
+i　think。。。　
+informal＋と思う　／　思います
+出来ないと思います　／　高くないと思います　／　二十歳だと思います　／山綺麗だと思います
+
+They said。。。　informal＋と言っていた
+来週は晴れると言っていました。
+パ一テイが楽しかったと言ってました。
+
+Please don't Vneg　＋　で　＋　下さい
+急がないでください　／　走らないでください　	／　ここで泳がないでください　／　写真を撮らないでください
+
+Normalizing
+informal（A)　＋　のが　＋　Describing　A
+お風呂に入るのが好き　／　料理を作るのが下手　／　スーパーで買い物するが大好き　／　数学を勉強するのが大嫌い
+
+Something　and　Nothing　in　Japanese
+何か　何も＋negative
+何か食べましょうか　／　何も変わりません　／　今、何かきこえませんか？ 
