@@ -22,3 +22,20 @@ Japanese　informal　negative　past
 いadjective　adjective（negative）ーい＋かった
 なadjective／noun　adjective＋じゃなかった
 楽しい→楽しくなかった　綺麗→綺麗じゃなかった　静か→静かじゃなかった　日本人じゃなかった
+ 
+Noun Modification with verbs (Verb(ている)　＋　noun)
+光っている目　／　動いている車　／一生懸命泳いでいる人たち　／　ふわふわで　／白い顔で紫の服を着ている男　
+でhere is describing the condition/state which an action takes place. In this case is face white while wearing
+a purple outfit
+
+Have already/Have not yet
+もう＋verbました　／　まだverbていない
+もう食べた　／　もうみました　／　もう歯磨（はみが）きした
+まだ食べていません　／　まだ見ていない　／　まだ歯磨きしていません
+まだ食べていないから、お酒を飲みません　／もう払（は）いましたが、また請求書（せいきゅうしょ）が来ました
+
+Because / therefore
+Reason ＋ から　＋　situation　（reason、so　situation）
+もう食べたから、行かない　／　眠いから、寝ます　／　寝ませんでしたから、眠いです　／　可愛い猫だったから、なでなでしました。
+
+なので
