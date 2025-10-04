@@ -32,7 +32,7 @@ ichidan verb (eru / iru)
 
 も
 私は東京に行く
-長野にも行く
+長野にも行く 
 
 私は東京で遊ぶ
 長野でも遊ぶ
@@ -43,7 +43,7 @@ ichidan verb (eru / iru)
 
 と
 砂糖とミルクを入れます
-昨日は小おかさんと電話しました
+昨日はおかさんと電話しました
 
 楽しい　楽しくない　楽しかった　楽しくなかった
 元気　元気じゃない　元気でした　元気じゃなかった
@@ -105,7 +105,7 @@ reason＋から
 ご飯食べましょうか？
 
 present continuous
-食べている　／　走っている　／　歩いている　／　見ている
+食べている　／　走っている　／　歩いている　／　見ている　
 公園で犬と遊んでいる
 お兄さんは宿題をしています
 お母さんが夕ご飯を作っています
@@ -114,7 +114,7 @@ present continuous
 猫がソファに座っています
 
 subject + が　+ adj
-指が短い／耳か小さい／頭が大きい
+指が短い／耳か小さい／頭が大きい　
 お父さんは髪が短い
 
 てform　for　adjective　＆　noun (also use to connect sentences)
@@ -123,14 +123,14 @@ subject + が　+ adj
 nouns →　日本人　→　日本人で
 面白くて、楽しかった
 早くて、安い
-テレビは薄くて、大きいです
+テレビは薄くて、大きいです　
 空が青くて、綺麗です
 
 Go an do / come and do  ... in japanese
 Location ＋ に＋　verb(ますform)　＋　に　＋　行く
 Location ＋ に＋　verb(ますform)　＋　に　＋　来る
 Location ＋ に＋　verb(ますform)　＋　に　＋　帰る
-買いに行く　／　食べにくる　／　見に行く ／　カラオケに歌いにいく　／　海に泳ぎに行く
+買いに行く　／　食べにくる　／　見に行く ／　カラオケに歌いにいく　／　海に泳ぎに行く　
 
 Japanese informal negative godan 
 Verb negative + ない　（move the hiragana chart up	 to the あ　column）
@@ -151,7 +151,7 @@ informal＋と思う　／　思います
 
 They said。。。　informal＋と言っていた
 来週は晴れると言っていました。
-パ一テイが楽しかったと言ってました。
+パ一テイが楽しかったと言っていました。
 
 Please don't Vneg　＋　で　＋　下さい
 急がないでください　／　走らないでください　	／　ここで泳がないでください　／　写真を撮らないでください

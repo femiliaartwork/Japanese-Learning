@@ -1,7 +1,7 @@
 Short form past tense
 How to conjugate godan verbs
 う→った　む→んだ　つ→った　ぬ→んだ　る→った　ぶ→んだ　す→した　く→いた　ぐ→いだ
-歌う→歌った　乗る→乗った　持つ→持った　聞く→聞いた　急ぐ→急いだ　飲む→飲んだ　遊ぶ→遊んだ　死ぬ→死んだ　話す→話した
+歌う→歌った　乗る→乗った　持つ→持った　聞く→聞いた　急ぐ→急いだ　飲む→飲んだ　遊ぶ→遊んだ　死ぬ→死んだ　話す→話した 
 
 How to conjugate ichidan verbs　（addた）　with　some　exception
 見る→見た　寝る→寝た　起きる→起きた
@@ -38,4 +38,121 @@ Because / therefore
 Reason ＋ から　＋　situation　（reason、so　situation）
 もう食べたから、行かない　／　眠いから、寝ます　／　寝ませんでしたから、眠いです　／　可愛い猫だったから、なでなでしました。
 
+Comparing two items in japanese
+noun A + のほうが　＋　noun　B　＋　よりadjective
+長野のほうが福岡（ふくおか）より寒い　same as 福岡より長野のほうが寒い　／　味噌ラーメンのほうが醤油より美味しいと思います
+俺、味噌と醤油より豚骨ラーメンがいい　If you put より to mark something at the start you can drop the 方が
+
+AとBとどちら＋のほうが＋adjective？
+漫画とアニメとどっちのっほうが面白い？漫画のほうが面白い
+
+Comparing 3 items
+N3+ の中でN1が一番adjective　（N3+ can be 3+ items or a class of item e.g. 動物の中で）
+アニメの中で、何が一番面白い？　／バニラとチョコといちごの中で、どれが一番好きですか？	
+
+Avoid Repetition
+Normal Sentence - adjective + noun , the second time Adjective + の
+何色のクレヨンがある。赤いの。　
+どれにする？俺、一番大きいのにする
+
+verb(short)+つもりだ　（intend）
+行くつもりだ　／　やめるつもりだ　／　止（と）まらないつもりだ
+１０時に食べるつもりだ　／　明日仕事に行かないつもりです　／　仕事をするつもりでしたが、YouTubeに引き込（こ）まれました
+
+いadjective　ー　い　＋　く　＋なる　／　なadjective／noun＋に＋なる　/ Become + adjective / noun
+conjunctions
+楽しくなる　｜　楽しくなった　｜　楽しくならない　｜　楽しくならなかった　｜楽しくなります
+忙しくなる　｜　綺麗いになる　｜　日本人にならない　｜　忙しくなるから、いかない　｜筋トレを頑張ったから、力持ちになった
+
+The words can change its meaning depending on the particles 
+何か＋に　(something)｜　何で＋も　(anything)｜　誰か＋に　(someone)｜　誰で＋も　(anyone)｜　どこか + へ (somewhere)
+どこ　＋に　も (anywhere)　　
+
+誰もない　｜　誰でもいい　just the で　particle change the meaning
+何か欲しい　｜　何でもない　｜　誰かに会う　｜　誰でもいい　｜　どこかへ行く　｜　どこにも行かない
+
+Noun　＋　で　＋　verb　（Do action +　with/by + noun）
+自転車で仕事に行った　｜箸で何でも食べます　
+
+Vmasu + たい（です）　／　Vmasu　＋　たくない（です）　informal　飲みてえ
+ラーメンを食べたい　｜　どこがに行きたい　｜　ここで食べたくない　｜　仕事に行きたくない　｜　その映画を見たくない
+
+Giving examples of activities
+short past A ＋ たり　＋　short past B　＋　だりする　(must end with だりする　or any other form of it)
+食べたり飲んだりする　｜　食べたり飲んだりした　｜　食べたり飲んだりしている
+
+Have you ever...? / Do you have experience of...?
+Short form Past tense sentence + ことがある？　
+お酒飲んだことある？　あるよ何回も
+
+Noun A + や　＋ Noun B (A and B, for example)
+子どもの頃（ころ）、ポケモンやマリオをよくやりました　｜　枝豆やポテトを頼（たの）みますか
+
+Explaining yourself　んだ
+Short form verb + のだ
+い　adjective　＋のだ
+な　adjective／noun　＋　なのだ　
+話したんだ　｜高かったんだ　｜子どもなんです　｜先生なんです
+
+Too much in Japanese
+vmasu + すぎる　
+short negative - い　＋　さ　＋すぎる
+いadjective　ー　い　＋すぎる
+なadjective　＋すぎる
+食べすぎる　｜　食べなさすぎる　｜　高すぎる　｜静かすぎる　｜　肉を食べすぎました　｜水を飲まなさすぎる　｜　高すぎたんです
+
+Had Better in Japanese (ほうがいい)
+Short Past Tense ＋ ほうがいい
+Short Negative ＋　ほうがいい
+食べたほうがいい　｜　飲まないほうがいい　｜　読むほうがいい　｜　もっとたんぱく質（しつ）を食べたほうがいいんですよ
+
+から　used for uncertainty but ので　the situation must be true
+Because in japanese (another way) ので 
+Reason + ので + situation
+verb(short) + ので　+ any form
+いadjective　＋　ので　＋　any form
+なadjective　＋　ので　＋　any form
+話したので、大丈夫です　｜　高いので、買いません　｜　子供なので、気にしないでください
+熱（ねつ）が出たので、仕事に行きません　｜　今年どこでも行かなかったので、少し悲しいです
+
+Must in japanese
+なきゃ　｜　なくちゃ　｜　ないと
+Short Negative Stem　＋　なきゃ
+食べなきゃ　Must eat | 行かなきゃ Must go |　やめなきゃ Must quit
+お昼食べなきゃ　I must eat lunch｜お酒を飲みすぎた。やめなきゃ
+
+probably in japanese
+Short Form Present / Neg + でしょう
+いadjective／negative　＋　でしょう
+なadjective／noun　＋　でしょう
+食べるでしょう　｜　飲まないでしょう　｜寒いでしょう
+
+politely asking for opinion/guesses
+食べれるでしょうか　｜　飲まないでしょうか　｜　寒いでしょうか
+
+Say "~ right?"
+食べるでしょ　｜　飲まないでしょ　｜　寒いでしょ
+
+もし　ー　if
+まだ
 なので
+かな　ー　i guess　／　i wonder
+には
+なら　ー　then／if
+から(because)　／　だから（so / that's why）
+とりあえず　ー　for starters
+かしら
+話すときに**「あ〜」「うーん」「そうだね」「なんでかっていうと〜」
+たいてい　ー　usually
+たら　ー　when / if
+
+もし雨天の場合(ばあい)　ー　in case of rain
+どこかへ旅行に行ったことがありますか
+もし今日時間があれば、スターバックスに行きたいです
+うーん、コーヒーかな。酸味と味が好きなんです
+沖縄と言えば　ー　speaking of okinawa
+コミュニケーションがとりたいからです。
+山綺麗だと思います
+どれにする
+飛行機を見に行きます。
+したほうがいい事と言えば　（Speaking of things we should do）
