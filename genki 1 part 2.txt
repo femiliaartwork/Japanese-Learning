@@ -5,7 +5,7 @@ How to conjugate godan verbs
 
 How to conjugate ichidan verbs　（addた）　with　some　exception
 見る→見た　寝る→寝た　起きる→起きた
-電気をつけた　／　パーティに来た　／　夕ご飯を作った
+電気をつけた　／　パーティに来た　／　夕ご飯を作った　／　自分の飲み物を持ってきた
 
 Japanese　informal　negative　past
 Vnegative　ー　い＋かった
@@ -16,12 +16,17 @@ Vnegative　ー　い＋かった
 Japanese　informal past
 いadjective　adjectiveーい＋かった
 なadjective／noun　adjective＋だった　
-楽しい→楽しかった　綺麗→綺麗だった　静か→静かだった　
+楽しい→楽しかった　綺麗→綺麗だった　静か→静かだった　　
 
 Japanese　informal　negative　past
 いadjective　adjective（negative）ーい＋かった
 なadjective／noun　adjective＋じゃなかった
-楽しい→楽しくなかった　綺麗→綺麗じゃなかった　静か→静かじゃなかった　日本人じゃなかった
+楽しい→楽しくなかった　綺麗→綺麗じゃなかった　静か→静かじゃなかった　日本人じゃなかった　
+漫画を読みなかった　｜　店は開いていなかった　
+
+They said 
+informal + と言っていた
+バーベキューをしたと言っていました　｜　パーティーは楽しかったと言っていた　
  
 Noun Modification with verbs (Verb(ている)　＋　noun)
 光っている目　／　動いている車　／一生懸命泳いでいる人たち　／　ふわふわで　／白い顔で紫の服を着ている男　
@@ -41,7 +46,7 @@ Reason ＋ から　＋　situation　（reason、so　situation）
 Comparing two items in japanese
 noun A + のほうが　＋　noun　B　＋　よりadjective
 長野のほうが福岡（ふくおか）より寒い　same as 福岡より長野のほうが寒い　／　味噌ラーメンのほうが醤油より美味しいと思います
-俺、味噌と醤油より豚骨ラーメンがいい　If you put より to mark something at the start you can drop the 方が
+俺、味噌と醤油より豚骨ラーメンがいい　If you put より to mark something at the start you can drop the 方が. 
 
 AとBとどちら＋のほうが＋adjective？
 漫画とアニメとどっちのっほうが面白い？漫画のほうが面白い
@@ -49,6 +54,7 @@ AとBとどちら＋のほうが＋adjective？
 Comparing 3 items
 N3+ の中でN1が一番adjective　（N3+ can be 3+ items or a class of item e.g. 動物の中で）
 アニメの中で、何が一番面白い？　／バニラとチョコといちごの中で、どれが一番好きですか？	
+どちら　for two things どれ　for > 2 things
 
 Avoid Repetition
 Normal Sentence - adjective + noun , the second time Adjective + の
@@ -87,7 +93,7 @@ Short form Past tense sentence + ことがある？　
 
 Noun A + や　＋ Noun B (A and B, for example)
 子どもの頃（ころ）、ポケモンやマリオをよくやりました　｜　枝豆やポテトを頼（たの）みますか
-
+	
 Explaining yourself　んだ
 Short form verb + のだ
 い　adjective　＋のだ

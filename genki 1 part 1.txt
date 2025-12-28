@@ -3,7 +3,19 @@
 安藤さんがいます。
 いませんでした
 
-ここ／どこ／あそこ／そこ
+A の　B　(Extra A information about B)
+野球の選手　｜　幼稚園の先生　｜　ラーメン屋のシェフ
+
+ここ／どこ／あそこ／そこ／この／その／あの／どの
+
+だれの＋noun
+だれの鞄　｜　だれの本ですか
+
+too in Japanese
+ｘはｙです　
+ｚもｙです
+バナナは甘いです。りんごも甘いです
+
 
 XはYの（場所）です
 俺は安藤さんの前でコ一ヒ一を飲みます
@@ -20,15 +32,46 @@ XはYとZの間です
 では　==　じゃ
 ありません　==　ない
 
-godan verb stem (u -> i)
+godan verb stem (u -> i) polite form
 歌う　→　歌います　→　歌いません　→　歌いませんでした
 聞く　→　聞きます　→　聞きません　→　聞きませんでした
 飲む　→　飲みます　→　飲みません　→　飲みませんでした
 乗る　→　乗ります　→　乗りません　→　乗りませんでした
 
-ichidan verb (eru / iru)
+ichidan verb (eru / iru) polite form
 見る　→　見ます　→　見ません　→　見ませんでした
 食べる　→　食べます　→　食べません　→　食べませんでした
+
+Direct Object ＋ を　＋	verb
+コーヒーを飲みます　｜　テレビを見ました
+
+Marks where an activity take place で 
+Y の　Location ＋　で　＋　verb
+家でコーヒーを飲みます　｜　バーでテレビを見ました
+
+Marks the time an activity take place or Movement towards a goal　に
+Time ＋　に　＋　verb　or　location　＋　に　＋　movement　verb
+七時に家でコーヒーを飲みます　｜　日曜日にバーでテレビを見ました　
+アメリカに帰ります　｜カフェに行きます　｜　学校に行きます　
+
+Marks movement towards a goal (Identical to に)　へ
+location　＋　へ　＋　movement　verb
+アメリカへ帰ります　｜　カフェへ行きます
+
+Referencing time (days of week or numerical time expressions)
+＊Today, tomorrow, etc, regular time interval and when do no need the に particle
+Time ＋　に　＋　verb
+七時にコーヒーを飲みます　｜　日曜日にテレビを見ました　｜日曜日に学校に行きません
+毎日コーヒーを飲みます　｜今日はテレビを見ます
+
+Polite Japanese Invitation 
+masu verb stem ＋　ません　＋　か
+コーヒーを飲みませんか　｜　学校にいきませんか　｜　テレビをみませんか　｜　帰りませんか
+
+Frequency Adverb 
+毎日　｜　よく　｜　時々　｜　全然　｜　あまり　
+Adverb ＋　Direct Object ＋　を　＋　verb　OR　Direct Object ＋　を　＋　adverb　＋　verb　OR　adverb　＋　verb
+毎日コーヒーを飲みます　｜　時々カフェに行きます　｜　ビールあまり好きではありません　
 
 も
 私は東京に行く
@@ -41,27 +84,33 @@ ichidan verb (eru / iru)
 一時間ぐらい勉強しました
 三十分歩きました 
 
+Duration Do not take particle e.g. 時間　分　週間
+1時間ぐらい勉強しました　｜　30分歩きました　｜　仕事を９時間しました　｜　1時間ぐらい昼寝しました　
+
 と
 砂糖とミルクを入れます
 昨日はおかさんと電話しました
 
+i adjective and na adjective
 楽しい　楽しくない　楽しかった　楽しくなかった
 元気　元気じゃない　元気でした　元気じゃなかった
 良い　良くない　良かった　良くなかった
 
-い　な　
+い　な　adjective + noun or adjective + な　+ noun
 楽しい人
 怖い映画
-綺麗な景色
+綺麗な景色(けしき)
 暇な時間
 暑い夏が来ます
 静かな町に行きます
 綺麗な病院でした
 
+Likes and Dislikes
 好き　嫌い
 XはYが好きです
 XはYが嫌いです
 
+Japanese Polike 'Let's'
 ますstem　＋　ましょう
 歌いましょう
 食べましょう
@@ -69,6 +118,7 @@ XはYが嫌いです
 一緒にゲームをしましょうか
 可愛い映画を見ましょう
 
+Conjugate
 Godan（past tense just change to た　だ）
 う→って　む→んで　つ→って　ぬ→んで　る→って　ぶ→んで　す→して　く→いて　ぐ→いで
 歌う→歌って　乗る→乗って　待つ→待って　聞く→聞いて　急ぐ→急いで 飲む→飲んで　遊ぶ→遊んで　死ぬ→死んで　話す→話して
@@ -77,30 +127,38 @@ Godan（past tense just change to た　だ）
 Ichidan
 見る→見て　寝る→寝て　起きる→起きて　入る→入って　走る→走って　いる→いって　帰る→帰って　限る→限って　切る→切って　喋る→喋って　知る→知って　
 蹴る（ける）→蹴って　滑る（すべる）→滑って
+自分の飲み物を持って来て
+友達も連れて来てね　 important(持って来て)bring
 
+polite requests in japanese
 て＋ください
 食べって下さい
 飲んでください
 立ってください
 
+sequence of event
 て　form　＋　second　event
 図書館に行って、勉強します
 スイカを切って、食べました
 ス一パ一に行って、家に帰りました
 
+you may in japanese
 てform＋もいいで（すか）
 開けてもいいですか？
 座ってもいいですか？
 電話してもいいですか？
 
+Prohibition in japanese
 てform＋はいけません
 走ってはいけません
 食べてはいけません
 
-reason＋から
+Explaining Reasons
+reason＋から + so i ...
 忙しいですから
 好きじゃないですから
 
+Japanese Polite "Shall I"
 ますstem＋ましょうか？
 ご飯食べましょうか？
 
@@ -112,6 +170,11 @@ present continuous
 窓が開いています
 テレビがついている
 猫がソファに座っています
+
+Results of a change
+てform + いる　
+生きている　｜　寝ています　｜　立っています
+窓が開いています　｜　テレビがついています　
 
 subject + が　+ adj
 指が短い／耳か小さい／頭が大きい　
@@ -144,6 +207,7 @@ Japanese informal　negative　adjective
 いadjective　（replace　い　with　く　＋　ない）
 なadjective／noun＋じゃない
 楽しくない　／　可愛くない　／　綺麗じゃない　／静かじゃない
+漫画を読まない　｜　店は開いてないよ　｜　まだりんごが赤くない　｜　私は高校の先生だ
 
 i　think。。。　
 informal＋と思う　／　思います
@@ -151,15 +215,35 @@ informal＋と思う　／　思います
 
 They said。。。　informal＋と言っていた
 来週は晴れると言っていました。
-パ一テイが楽しかったと言っていました。
+パ一テイが楽しかったと言っていました。　｜　バーベキューをするといっていました
 
 Please don't Vneg　＋　で　＋　下さい
 急がないでください　／　走らないでください　	／　ここで泳がないでください　／　写真を撮らないでください
 
-Normalizing
+Normalizing sentences in japan
 informal（A)　＋　のが　＋　Describing　A
-お風呂に入るのが好き　／　料理を作るのが下手　／　スーパーで買い物するが大好き　／　数学を勉強するのが大嫌い
+お風呂に入るのが好き　／　料理を作るのが下手　／　スーパーで買い物するのが大好き　／　数学を勉強するのが大嫌い
+
+The subject particle が
+Adds emphasis
+私が行く　
+Used with "Question words"
+何が好き？　
+誰が人気ですか　｜　山下さんが大人気です　｜　アボカド食べるのが好きです
 
 Something　and　Nothing　in　Japanese
 何か　何も＋negative
 何か食べましょうか　／　何も変わりません　／　今、何かきこえませんか？ 
+
+Additional words
+どのぐらい
+そして
+夕方（ゆうがた）
+着いていません　instead of 着きません（不自然）and 到着（アナウンサーぽ）
+食べられます we can eat
+分からない（i'm not sure）
+自然にするとこうなります
+そもそも in the first place / to begin with
+ければ　if
+もう少し A little more
+さっき
